@@ -1,28 +1,33 @@
-# Hello!
+Hello!
 
-My name is Genadi Draganov - a beginner in the field of programming
+My name is Genadi Draganov, a beginner programmer with a passion for software development, algorithms, and problem-solving.
 
-## About me
+About me
 
- I am currently learning and slightly progressing in the field of [HTML, CSS, JavaScript, Python, web development, scripts.]
- I am interested in software development, algorithms, and solving logical problems.
- I am interested in software development, algorithms, and solving logical problems.
+I am currently studying Informatics at Plovdiv University (PU Plovdiv) and gaining practical experience in Python, JavaScript, HTML, CSS, and web development. I enjoy tackling logical challenges, building small projects, and applying theoretical knowledge in practice. I am also exploring Git, React, and SQL to expand my technical skills.
 
-## What can I do?
+Skills & Experience
 
- Basic knowledge of Python, JavaScript, HTML and CSS
- I work on small projects and exercises to gain experience
- I am in the process of mastering Git, React and SQL
- I am interested in web development and software engineering
+Writing programs and scripts in Python and JavaScript
 
-## Goals
+Developing simple web pages using HTML and CSS
 
- To become a professional software developer.
- To participate in interesting projects, competitions, and to evaluate open source.
- To continuously develop and share knowledge.
+Building small projects and exercises to improve practical abilities
 
-## Contacts
+Learning and applying new technologies like Git, React, and SQL
 
- Email: [genadi.draganov.dev@gmail.com]
- LinkedIn: []
- GitHub: [https://github.com/GenadiDev]
+Goals
+
+Become a professional software developer
+
+Participate in projects, competitions, and open-source contributions
+
+Continuously learn, improve, and share knowledge with the tech community
+
+Contacts
+
+Email: genadi.draganov.dev@gmail.com
+
+LinkedIn: www.linkedin.com/in/genadi-draganov-597273311
+
+GitHub: https://github.com/GenadiDev
